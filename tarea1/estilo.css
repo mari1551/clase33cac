@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #CBDFBD;
+    height: 50px;
+    font-size: x-large;
+    font-weight: bold;
+    padding-left: 15px;
+    
+}
+
+#contenido{
+    margin: 0 auto;
+   
+}
+.btn{
+    background-color: #F19C79;
+    border: #F19C79;
+    color:black
+}
+
+
+footer{
+    background-color: #D4E09B;
+    height: 45px;
+    text-align: center;
+    font-size: small;
+}
+
+
+/*------------------ archivo de datos.php ----------*/
+#pag_datos{
+    display: flex;
+    justify-content: center;
+}
+#factura{
+    border: 1px solid black;
+    width: 80%;
+    margin-top:15px;
+    margin-bottom: 15px;
+    padding: 15px;
+}
+#divLogo{
+    height: 150px;
+    border-bottom: 1px solid #F19C79;
+}
+#imgLogo{
+    height: 100%;
+}
+#divTitulo{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+
